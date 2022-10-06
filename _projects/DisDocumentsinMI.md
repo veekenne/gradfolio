@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 6
-description: another project
+title: A Culture of (in)Access in the First-Year Writing Programs of the Public Universities of Michigan
+description: My graduate research from EMU
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
