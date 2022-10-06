@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conference Presentations
-description:  Places I've Blabbed About Research
+description: Places I've Blabbed About Research
 ---
 
 ![Image](/gradfolio/assets/images/egsa.jpg "Vee")
