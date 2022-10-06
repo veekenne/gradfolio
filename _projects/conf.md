@@ -3,7 +3,7 @@ layout: post
 title: Conference Presentations
 description:  Places I've Blabbed About Research
 ---
-======
+
 ![Image](gradfolio/assets/images/egsa.jpg "Vee")
 
 Minimum Thresholds in First Year Writing Assessment. Eastern Michigan University English Graduate Student Association Conference. Ypsilanti, MI. March 2019. 
