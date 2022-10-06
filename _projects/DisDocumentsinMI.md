@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Culture of (in)Access
-description:  A look at the disability friendliness of the First-Year Writing Programs of the Public Universities of Michigan as manifested by course documents
+description:  The disability friendliness of the First-Year Writing Programs of the Public Universities of Michigan as manifested by course documents
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
