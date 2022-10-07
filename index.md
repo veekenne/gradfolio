@@ -2,13 +2,16 @@
 layout: about
 permalink: /
 profile:
-  align: right
+  align: left
   image: profile.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi! I'm Vee Kennedy (they/them/theirs) and I'm presently a Visiting Instructor in the Department of Rhetoric and Writing at the University of Central Florida. I'm also planning to apply to the [Texts and Technology PhD Program](https://cah.ucf.edu/textstech/){:target="_blank"} at UCF and am currently trying out some coursework to see if the program is a good fit for me. My research interests are at the intersections of queer and trans rhetorics, gender, fandom, neurodivergence and (dis)ability. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am many things, among them, autistic and chronically ill. My greatest goal within my scholarly work is to improve the experiences of neurodivergent college students in their transition to the undergraduate experience. A great place to start learning more about the need for improving these support systems for allies, and for disabled student advocates ourselves, is the Autistic Self-Advocacy Network's [Empowering Leadership: A Systems Change Guide for Autistic College Students and Those with Other Disabilities](https://autisticadvocacy.org/resources/books/empowering-leadership-a-systems-change-guide-for-autistic-college-students-and-those-with-other-disabilities/){target="_blank}.     
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+
+ 
+
+

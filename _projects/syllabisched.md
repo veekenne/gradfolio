@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 5
-description: another project
+title: ENC 1102 Example Syllabus & Schedule
+description: An example of my ENC 1102 Syllabus & Schedule
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
