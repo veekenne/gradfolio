@@ -4,6 +4,7 @@ permalink: //
 title: CV
 published: true
 ---
+
 **Vee Kennedy**
 
 Visiting Instructor of Rhetoric & Writing 
