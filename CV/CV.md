@@ -11,7 +11,7 @@ Visiting Instructor of Rhetoric & Writing
 
 University of Central Florida
 
-Vee.Kennedy@ucf.edu
+Vee.Kennedy@ucf.edu 
 
 **EDUCATION**
 
