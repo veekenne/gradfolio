@@ -6,7 +6,7 @@ published: true
 ---
 **Vee Kennedy**
 
-Visiting Instructor of Rhetoric & Writing
+Visiting Instructor of Rhetoric & Writing 
 
 University of Central Florida
 
