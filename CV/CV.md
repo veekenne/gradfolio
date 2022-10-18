@@ -5,7 +5,7 @@ title: CV
 published: true
 ---
 
-**Vee Kennedy**
+**Vee Kennedy** 
 
 Visiting Instructor of Rhetoric & Writing 
 
