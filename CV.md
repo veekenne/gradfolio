@@ -33,6 +33,10 @@ Visiting Professor, New Student Experience, Valencia College, 2021-2022.
 
 **Regional**
 
+Kennedy, Vee. “GradeGPT: CanGPT3.5 Pass English Composition II?” Teaching & Learning with AI Conference. September 2023. 
+
+Kennedy, Vee. “Grading ChatGPT: How Well the AI Scored on My First-Year Composition Prompts and How this Changes My Pedagogy.” Sunshine State Teaching and Learning Conference. May 2023. 
+
 Kennedy, Vee. "An Analysis of the Accommodation Statements of the First Year Composition Courses at the Public Universities in Michigan." Graduate Research Conference, Eastern Michigan University. April 2020. _\* Canceled due to COVID-19 Pandemic._
 
 Kennedy, Vee. "Disabled student, disabled teacher: masking and disclosing disability in academia." Teaching of Writing Conference, Wayne State University. February 2020_._
