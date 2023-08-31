@@ -15,6 +15,8 @@ Vee.Kennedy@ucf.edu
 
 **EDUCATION**
 
+Ph.D, Texts & Technology, University of Central Florida - Expected 2027 
+
 M.A., Rhetoric & Writing, Eastern Michigan University, 2020.
 
 M.A., Creative Writing, Eastern Michigan University, 2020.
